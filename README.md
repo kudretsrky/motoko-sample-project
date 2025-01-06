@@ -1,0 +1,2 @@
+# motoko-sample-project
+Calculator
